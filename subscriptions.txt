@@ -1,0 +1,4 @@
+https://example.com/sub1
+https://example.com/sub2
+https://raw.githubusercontent.com/xxx/yyy/main/nodes.txt
+https://another-sub.com/api/v1/client/subscribe?token=xxxxx
